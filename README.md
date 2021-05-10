@@ -15,7 +15,7 @@ The RSA algorithm is an asymmetric cryptography algorithm; this means that it us
 * Private key (n, d)
 # Encryption formule
 C = P <sup>e</sup> mod(ϕ(phi))
-# Decryption
+# Decryption formule
 P = C <sup>d</sup> mod(ϕ(phi))
 
 # Output
